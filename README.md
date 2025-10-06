@@ -1,3 +1,8 @@
+# 🐍 Learn2Slither: Q-Learning Snake Reinforcement Learning
+
+A reinforcement learning implementation of the classic Snake Game.  
+The project demonstrates reward design, autonomous learning, and performance evaluation using Q-Learning.
+
 🐍 Reinforcement Learning Snake Game
 
 This project implements a Reinforcement Learning (RL) agent to play a variant 
