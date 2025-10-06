@@ -316,6 +316,6 @@ if __name__ == "__main__":
         game_over = not game.move(current_direction)
 
         # A small delay to make the game playable to watch
-        time.sleep(1)
+        time.sleep(0.7)
             
     print("Final Score:", game.score)
